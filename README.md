@@ -1,20 +1,20 @@
-# ¡Hola! Soy Martín Galetto 👋
+# Hola! Soy Martín Galetto
 
 **Técnico Universitario en Programación (UTN FRRO)** especializado en desarrollo **Backend con .NET y C#**. Apasionado por la construcción de software escalable, el diseño de APIs y el trabajo con código bien estructurado.
 
 ---
 
-### 💻 Perfil Profesional
+### Perfil Profesional
 
-- 🎓 **Formación:** Técnico Universitario en Programación — Universidad Tecnológica Nacional (UTN FRRO).
-- ⚙️ **Especialidad:** Desarrollo Backend con C# y .NET.
-- 📐 **Arquitectura:** Orientado a buenas prácticas para construir software claro, ordenado y fácil de mantener.
-- 🗄️ **Bases de Datos:** Experiencia en el modelado y gestión de bases de datos relacionales para respaldar aplicaciones sólidas.
-- 🔐 **Seguridad & Calidad:** Enfocado en la protección de datos, el rendimiento y la entrega de soluciones confiables.
+- **Formación:** Técnico Universitario en Programación — Universidad Tecnológica Nacional (UTN FRRO).
+- **Especialidad:** Desarrollo Backend con C# y .NET.
+- **Arquitectura:** Orientado a buenas prácticas para construir software claro, ordenado y fácil de mantener.
+- **Bases de Datos:** Experiencia en el modelado y gestión de bases de datos relacionales para respaldar aplicaciones sólidas.
+- **Seguridad & Calidad:** Enfocado en la protección de datos, el rendimiento y la entrega de soluciones confiables.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 #### Backend & Arquitectura
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -34,15 +34,15 @@
 
 ---
 
-### 📬 Contacto
+### Contacto
 
-- 📧 **Email:** [martingaletto2003@gmail.com](mailto:martingaletto2003@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/galettomartin](https://linkedin.com/in/MartinGaletto15)
-- 📍 **Ubicación:** Rosario, Argentina
+- **Email:** [martingaletto2003@gmail.com](mailto:martingaletto2003@gmail.com)
+- **LinkedIn:** [linkedin.com/in/galettomartin](https://linkedin.com/in/MartinGaletto15)
+- **Ubicación:** Rosario, Argentina
 
 ---
 
-### 📊 Lenguajes Más Usados
+### Lenguajes Más Usados
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinGaletto15&layout=compact&theme=dark" alt="Lenguajes más usados" height="165" />
