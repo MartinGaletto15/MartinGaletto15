@@ -44,6 +44,4 @@
 
 ### Lenguajes Más Usados
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinGaletto15&layout=compact&theme=dark" alt="Lenguajes más usados" height="165" />
-</p>
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs?username=MartinGaletto15&layout=compact&theme=dark)
