@@ -37,7 +37,7 @@
 ### Contacto
 
 - **Email:** [martingaletto2003@gmail.com](mailto:martingaletto2003@gmail.com)
-- **LinkedIn:** [linkedin.com/in/galettomartin](https://linkedin.com/in/MartinGaletto15)
+- **LinkedIn:** [linkedin.com/in/galettomartin](https://linkedin.com/in/galettomartin)
 - **Ubicación:** Rosario, Argentina
 
 ---
