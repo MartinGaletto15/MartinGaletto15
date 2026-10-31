@@ -44,4 +44,4 @@
 
 ### Lenguajes Más Usados
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs?username=MartinGaletto15&layout=compact&theme=dark)
+![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MartinGaletto15&theme=zenburn)
