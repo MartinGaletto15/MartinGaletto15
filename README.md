@@ -1,15 +1,13 @@
 # Hola! Soy Martín Galetto
 
-**Técnico Universitario en Programación (UTN FRRO)** especializado en desarrollo **Backend con .NET y C#**. Apasionado por la construcción de software escalable, el diseño de APIs y el trabajo con código bien estructurado.
+Desarrollo APIs REST, servicios backend y arquitecturas orientadas a la escalabilidad, la integridad de datos y el código mantenible.
 
 ---
 
 ### Perfil Profesional
 
-- **Formación:** Técnico Universitario en Programación — Universidad Tecnológica Nacional (UTN FRRO).
-- **Especialidad:** Desarrollo Backend con C# y .NET.
-- **Arquitectura:** Orientado a buenas prácticas para construir software claro, ordenado y fácil de mantener.
-- **Bases de Datos:** Experiencia en el modelado y gestión de bases de datos relacionales para respaldar aplicaciones sólidas.
+- **Arquitectura:** Orientado a buenas prácticas y principios SOLID para construir software claro, ordenado y fácil de mantener.
+- **Bases de Datos:** Experiencia en el modelado, optimización y gestión de bases de datos relacionales para respaldar aplicaciones sólidas.
 - **Seguridad & Calidad:** Enfocado en la protección de datos, el rendimiento y la entrega de soluciones confiables.
 
 ---
@@ -34,8 +32,19 @@
 
 ---
 
+### Proyectos Destacados
+
+| Proyecto | Descripción Técnica | Stack |
+| :--- | :--- | :--- |
+| **[GreenCongelados](https://github.com/MartinGaletto15/GreenCongelados)** | Sistema de gestión comercial y control de stock/pedidos. | `C#` `.NET` `SQL Server` |
+| **[TCP-PowerMonitor](https://github.com/MartinGaletto15/TCP-PowerMonitor)** | Monitor de red y estado de equipos mediante comunicación por sockets TCP. | `C#` `.NET` `Sockets` |
+| **[CineClub](https://github.com/MartinGaletto15/CineClub)** | Plataforma web para gestión de funciones, socios y cartelera. | `C#` `JavaScript` `API REST` |
+
+---
+
 ### Contacto
 
+- **Disponibilidad:** Abierto a oportunidades como Backend Developer (.NET / C#).
 - **Email:** [martingaletto2003@gmail.com](mailto:martingaletto2003@gmail.com)
 - **LinkedIn:** [linkedin.com/in/galettomartin](https://linkedin.com/in/galettomartin)
 - **Ubicación:** Rosario, Argentina
