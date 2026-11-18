@@ -39,9 +39,3 @@
 - **Email:** [martingaletto2003@gmail.com](mailto:martingaletto2003@gmail.com)
 - **LinkedIn:** [linkedin.com/in/galettomartin](https://linkedin.com/in/galettomartin)
 - **Ubicación:** Rosario, Argentina
-
----
-
-### Lenguajes Más Usados
-
-![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MartinGaletto15&theme=zenburn)
